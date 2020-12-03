@@ -40,7 +40,7 @@
             </form>
         </div>
         <br/>
-        <table border="1">
+        <table class="table">
             <thead>
                 <tr>
                     <th>Nome</th>
