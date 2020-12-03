@@ -1,0 +1,22 @@
+
+#Principal-borda{
+    width:1200px;
+    border:2px solid black;
+    padding: 15px;
+    margin-top: 50px;
+    border-radius: 13px;
+}
+.textoBorda{
+    font-size: 30px;
+    width:30px;
+    margin-top:-40px;
+    margin-left:10px;
+    margin-bottom: 5px;
+    background-color: white;
+    width: 80px;
+}
+.botao{
+    font-size: 16px;
+    margin-top: 30px;
+    padding: 8px 12px;
+}
